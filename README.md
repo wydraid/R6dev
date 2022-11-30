@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @R6dev
-- 👀 I’m interested in Discord Bots, Making Programms and more.
+- 👋 Hi, I’m @raid
+- 👀 I’m interested in Website Development
 - 🌱 I’m currently learning: C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: $ R6#1554
+- 📫 How to reach me: raid#9407
 
 <!---
 R6dev/R6dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
